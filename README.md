@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaraibRayeen
-- 👀 I’m interested in full stack MERN development
+- 👀 I’m a full stack MERN development
 - 🎓 I Will graduate in 2023 from AKTU.
 - 🌱 I’m currently learning DSA.
 - 💞️ Interests: Trading , learning new things.
